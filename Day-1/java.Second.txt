@@ -1,0 +1,14 @@
+// sample java program
+/* 
+    sample
+    java
+    program 
+ */
+import java.lang.system;
+import java.lang.string;
+
+class Second{
+public static void main(String args []){
+System.out.print(" welcome to java program");
+} 
+}
